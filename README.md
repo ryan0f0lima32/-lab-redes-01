@@ -26,4 +26,17 @@
 - 3 Notebook
 - 1 roteador wireless com porta WAn e 4 portas
 - 1 impressira de rede
-- cabos de redes 
+- cabos de redes
+
+ ---
+ ## 3. Topologia da Rede
+
+ Diagrama lógico da rede usada neste laboratório 
+ ```mermaid 
+graph TD
+
+WAN[internet / WAN do provedor]
+```
+
+
+ 
