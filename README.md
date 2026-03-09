@@ -13,6 +13,7 @@
  ## 1. Objetivo
  implantar uma rede local simples conectando 3 notebook a um roteador 
  wireless com switch em uma impressora 
+ 
  O projéto será dividido em duas etapas
 
  1. simulação da rede nop Cisco Packet tracer
