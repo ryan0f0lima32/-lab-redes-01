@@ -37,7 +37,7 @@ graph TD
 
 WAN[internet / WAN do provedor]
 
-Roteador[Roteador wirelss<br>1 Porta WAN<br>4 Porta LAN]
+Router[Roteador wirelss<br>1 Porta WAN<br>4 Porta LAN]
 
 PC1[Notbook 1]
 PC2[Notbook 2]
@@ -49,7 +49,7 @@ WAN --> |Porta WAN| Router
 Router -->|LAN1| PC1
 Router -->|LAN2| PC2
 Router -->|LAN3| PC3
-Router -->|LAN4| PC4
+Router -->|LAN4| Printer
  
 ```
 
