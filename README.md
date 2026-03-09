@@ -38,6 +38,13 @@ graph TD
 WAN[internet / WAN do provedor]
 
 Roteador[Roteador wirelss<br>1 Porta WAN<br>4 Porta LAN]
+
+PC1[Notbook 1]
+PC2[Notbook 2]
+PC3[Notbook 3]
+
+Printer[Impressora de rede]
+
 ```
 
 
