@@ -37,7 +37,7 @@ graph TD
 
 WAN[internet / WAN do provedor]
 
-Roteador[Roteador wirelss<br> Porta WAN<br>4 Porta LAN]
+Roteador[Roteador wirelss<br>1 Porta WAN<br>4 Porta LAN]
 ```
 
 
