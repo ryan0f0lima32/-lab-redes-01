@@ -45,6 +45,7 @@ PC3[Notbook 3]
 
 Printer[Impressora de rede]
 
+WAN --> Router
 ```
 
 
