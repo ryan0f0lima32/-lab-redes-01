@@ -45,7 +45,12 @@ PC3[Notbook 3]
 
 Printer[Impressora de rede]
 
-WAN --> Router
+WAN --> |Porta WAN| Router
+Router -->|LAN1| PC1
+Router -->|LAN2| PC2
+Router -->|LAN3| PC3
+Router -->|LAN4| PC4
+ 
 ```
 
 
