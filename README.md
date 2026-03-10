@@ -58,3 +58,34 @@ Imagem da topologia usada neste laboratório
 ![Topologia](topologia.png)
  
 ---
+
+## 4. Plano de indereçamento de IP
+
+Rede: 192.168.0.0/24
+
+Gatewy: 192.168.0.1
+
+| Dispósitivo | Tipo de IP | Endereço de IP | Observação |
+|-------------|-------------|-------------|-------------|
+| Roteador | Estático | 192.168.0.1 | IP dp Roteador |
+| PC1 | Reserva DHCP | 192.168.0.4 | IP reservado pelo o roteador |
+| PC2 | Automático | IP atribuído pelo roteador |
+| PC3 | Automático | IP atribuído pelo roteador |
+
+**Observação**
+
+- A impressora e um dos notebooks utilizam reserva DHCP.
+- O roteador sempre atribui o mesmo endereço de IP a esses dispositivos
+
+  ---
+
+## 5. Conclusão 
+
+Este laboratório permitiu o funcionamento de uma rede local simples, incluindo:
+
+- Estrutura de uma rede doméstica ou de pequeno escritório (rede local)
+- Utilização de um roteador com porta WAN e porta LAN
+- Funcionameto do DHCP
+- Comunicação entre dispositivos na rede local
+- Utilização de uma impressora de rede
+- Compartilhando de pastas na rede usando Windows 
