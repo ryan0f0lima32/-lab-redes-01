@@ -71,8 +71,8 @@ Imagem da topologia usada neste laboratório:
 | ----------- | ------------ | -------------------------- | -------------------------- |
 | Roteador    | Estático     | 192.168.0.1                | IP do roteador             |
 | PC1         | Reserva DHCP | 192.168.0.4                | IP reservado pelo roteador |
-| PC2         | Automático   | IP atribuído pelo roteador |                            |
-| PC3         | Automático   | IP atribuído pelo roteador |                            |
+| PC2         | Automático   | IP atribuído pelo roteador | IP reservado pelo roteador |                          |
+| PC3         | Automático   | IP atribuído pelo roteador | IP reservado pelo roteador |
 
 **Observação**
 
