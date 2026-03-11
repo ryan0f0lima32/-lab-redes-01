@@ -1,4 +1,6 @@
-Vou corrigir **ortografia, acentuação, concordância e termos técnicos**, mantendo o seu trabalho praticamente igual (sem mudar o conteúdo).
+![GitHub License](https://img.shields.io/github/license/ryan0f0lima32/estudo-dos-roteadores)
+
+
 
 ---
 
